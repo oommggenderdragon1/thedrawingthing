@@ -1,0 +1,29 @@
+#timer{
+padding-left: 900px;
+font-size: 20px;
+}
+#score{
+padding-right: 900px;
+font-size: 20px;
+
+}
+body{
+
+    background-color: aqua;
+}
+#Sketche_to_be_drawn{
+
+font-size: 20px;
+
+}
+#confidence{
+
+
+    font-size: 20px;
+}
+canvas{
+height: 500px;
+width: 500px;
+border-radius: 10px;
+background-color: white;
+}
